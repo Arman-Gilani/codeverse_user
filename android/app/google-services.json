@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529435792028",
+    "project_id": "codeverse-all",
+    "storage_bucket": "codeverse-all.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529435792028:android:8e5bb8f2f14fe0ccd01359",
+        "android_client_info": {
+          "package_name": "com.example.codeverse_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529435792028-js3le2mkpi4rpimv9l30b1ujtqj32nia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTjN58j3m3cx96Y9QjZltg8ZIiolV5Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529435792028-js3le2mkpi4rpimv9l30b1ujtqj32nia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
