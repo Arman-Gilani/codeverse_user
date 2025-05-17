@@ -1,6 +1,6 @@
 # 📱 CodeVerse User - Flutter App for End Users
 
-**CodeVerse User** is a modern and intuitive mobile application built with Flutter, designed for the end users of the CodeVerse platform. It provides seamless interaction with platform features such as content consumption, user dashboards, notifications, and real-time updates, as well it also provide user different kind of programming course (search,enroll,learn courses) offering a rich and responsive user experience across Android and iOS devices.
+**CodeVerse User** is a modern and intuitive mobile application built with Flutter, designed for the end users of the CodeVerse platform. It provides seamless interaction with platform features such as content consumption, user dashboards, notifications, and real-time updates, as well it also provide user different kind of programming course (search, enroll, learn courses) offering a rich and responsive user experience across Android and iOS devices.
 
 ---
 
